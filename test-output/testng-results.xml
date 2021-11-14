@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="18" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="209241" started-at="2021-11-14T22:40:33Z" finished-at="2021-11-14T22:44:03Z">
+    <groups>
+      <group name="Regression">
+        <method signature="LoginTest.ForgotLink()[pri:0, instance:script.LoginTest@3feb2dda]" name="ForgotLink" class="script.LoginTest"/>
+        <method signature="LoginTest.HelpLink()[pri:0, instance:script.LoginTest@3feb2dda]" name="HelpLink" class="script.LoginTest"/>
+        <method signature="LoginTest.LoginAlertBelumTerdaftar()[pri:0, instance:script.LoginTest@3feb2dda]" name="LoginAlertBelumTerdaftar" class="script.LoginTest"/>
+        <method signature="LoginTest.LoginAlertInvalid()[pri:0, instance:script.LoginTest@3feb2dda]" name="LoginAlertInvalid" class="script.LoginTest"/>
+        <method signature="LoginTest.LoginAlertNull()[pri:0, instance:script.LoginTest@3feb2dda]" name="LoginAlertNull" class="script.LoginTest"/>
+        <method signature="RegisterTest.HelpLink()[pri:0, instance:script.RegisterTest@821330f]" name="HelpLink" class="script.RegisterTest"/>
+        <method signature="RegisterTest.PrivacyLink()[pri:0, instance:script.RegisterTest@821330f]" name="PrivacyLink" class="script.RegisterTest"/>
+        <method signature="RegisterTest.RegisterAlertInvalid()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterAlertInvalid" class="script.RegisterTest"/>
+        <method signature="RegisterTest.RegisterAlertNull()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterAlertNull" class="script.RegisterTest"/>
+        <method signature="RegisterTest.RegisterAlertPhoneLong()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterAlertPhoneLong" class="script.RegisterTest"/>
+        <method signature="RegisterTest.RegisterAlertPhoneShort()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterAlertPhoneShort" class="script.RegisterTest"/>
+        <method signature="RegisterTest.RegisterLogo()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterLogo" class="script.RegisterTest"/>
+        <method signature="RegisterTest.RegisterUrl()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterUrl" class="script.RegisterTest"/>
+        <method signature="RegisterTest.RegisterVerificationPopup()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterVerificationPopup" class="script.RegisterTest"/>
+        <method signature="RegisterTest.TermLink()[pri:0, instance:script.RegisterTest@821330f]" name="TermLink" class="script.RegisterTest"/>
+        <method signature="RegisterTest.VerificationEmail()[pri:0, instance:script.RegisterTest@821330f]" name="VerificationEmail" class="script.RegisterTest"/>
+        <method signature="HomeTest.Banner()[pri:0, instance:script.HomeTest@29d80d2b]" name="Banner" class="script.HomeTest"/>
+        <method signature="HomeTest.SpecialCard()[pri:0, instance:script.HomeTest@29d80d2b]" name="SpecialCard" class="script.HomeTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="LoginPage" duration-ms="57067" started-at="2021-11-14T22:40:33Z" finished-at="2021-11-14T22:41:31Z">
+      <class name="script.LoginTest">
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.LoginTest@3feb2dda]" name="BefMet" is-config="true" duration-ms="6146" started-at="2021-11-15T05:40:33Z" finished-at="2021-11-15T05:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="ForgotLink()[pri:0, instance:script.LoginTest@3feb2dda]" name="ForgotLink" duration-ms="1581" started-at="2021-11-15T05:40:40Z" finished-at="2021-11-15T05:40:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotLink -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.LoginTest@3feb2dda]" name="AfMet" is-config="true" duration-ms="4744" started-at="2021-11-15T05:40:41Z" finished-at="2021-11-15T05:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.LoginTest@3feb2dda]" name="BefMet" is-config="true" duration-ms="4893" started-at="2021-11-15T05:40:46Z" finished-at="2021-11-15T05:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="HelpLink()[pri:0, instance:script.LoginTest@3feb2dda]" name="HelpLink" duration-ms="1984" started-at="2021-11-15T05:40:51Z" finished-at="2021-11-15T05:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HelpLink -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.LoginTest@3feb2dda]" name="AfMet" is-config="true" duration-ms="4699" started-at="2021-11-15T05:40:53Z" finished-at="2021-11-15T05:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.LoginTest@3feb2dda]" name="BefMet" is-config="true" duration-ms="5129" started-at="2021-11-15T05:40:58Z" finished-at="2021-11-15T05:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="LoginAlertBelumTerdaftar()[pri:0, instance:script.LoginTest@3feb2dda]" name="LoginAlertBelumTerdaftar" duration-ms="953" started-at="2021-11-15T05:41:03Z" finished-at="2021-11-15T05:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAlertBelumTerdaftar -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.LoginTest@3feb2dda]" name="AfMet" is-config="true" duration-ms="4741" started-at="2021-11-15T05:41:04Z" finished-at="2021-11-15T05:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.LoginTest@3feb2dda]" name="BefMet" is-config="true" duration-ms="4753" started-at="2021-11-15T05:41:08Z" finished-at="2021-11-15T05:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="LoginAlertInvalid()[pri:0, instance:script.LoginTest@3feb2dda]" name="LoginAlertInvalid" duration-ms="1393" started-at="2021-11-15T05:41:13Z" finished-at="2021-11-15T05:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAlertInvalid -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.LoginTest@3feb2dda]" name="AfMet" is-config="true" duration-ms="4750" started-at="2021-11-15T05:41:14Z" finished-at="2021-11-15T05:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.LoginTest@3feb2dda]" name="BefMet" is-config="true" duration-ms="4878" started-at="2021-11-15T05:41:19Z" finished-at="2021-11-15T05:41:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="LoginAlertNull()[pri:0, instance:script.LoginTest@3feb2dda]" name="LoginAlertNull" duration-ms="1662" started-at="2021-11-15T05:41:24Z" finished-at="2021-11-15T05:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAlertNull -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.LoginTest@3feb2dda]" name="AfMet" is-config="true" duration-ms="4737" started-at="2021-11-15T05:41:26Z" finished-at="2021-11-15T05:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+      </class> <!-- script.LoginTest -->
+    </test> <!-- LoginPage -->
+    <test name="RegisterPage" duration-ms="129051" started-at="2021-11-14T22:41:31Z" finished-at="2021-11-14T22:43:40Z">
+      <class name="script.RegisterTest">
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="6564" started-at="2021-11-15T05:41:31Z" finished-at="2021-11-15T05:41:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="HelpLink()[pri:0, instance:script.RegisterTest@821330f]" name="HelpLink" duration-ms="2596" started-at="2021-11-15T05:41:37Z" finished-at="2021-11-15T05:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HelpLink -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="715" started-at="2021-11-15T05:41:40Z" finished-at="2021-11-15T05:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="7085" started-at="2021-11-15T05:41:41Z" finished-at="2021-11-15T05:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="PrivacyLink()[pri:0, instance:script.RegisterTest@821330f]" name="PrivacyLink" duration-ms="1429" started-at="2021-11-15T05:41:48Z" finished-at="2021-11-15T05:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrivacyLink -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="712" started-at="2021-11-15T05:41:49Z" finished-at="2021-11-15T05:41:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="6615" started-at="2021-11-15T05:41:50Z" finished-at="2021-11-15T05:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="RegisterAlertInvalid()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterAlertInvalid" duration-ms="130" started-at="2021-11-15T05:41:57Z" finished-at="2021-11-15T05:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterAlertInvalid -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="4739" started-at="2021-11-15T05:41:57Z" finished-at="2021-11-15T05:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="6721" started-at="2021-11-15T05:42:01Z" finished-at="2021-11-15T05:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="RegisterAlertNull()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterAlertNull" duration-ms="172" started-at="2021-11-15T05:42:08Z" finished-at="2021-11-15T05:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterAlertNull -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="4731" started-at="2021-11-15T05:42:08Z" finished-at="2021-11-15T05:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="6635" started-at="2021-11-15T05:42:13Z" finished-at="2021-11-15T05:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="RegisterAlertPhoneLong()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterAlertPhoneLong" duration-ms="185" started-at="2021-11-15T05:42:20Z" finished-at="2021-11-15T05:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterAlertPhoneLong -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="4706" started-at="2021-11-15T05:42:20Z" finished-at="2021-11-15T05:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="7337" started-at="2021-11-15T05:42:25Z" finished-at="2021-11-15T05:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="RegisterAlertPhoneShort()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterAlertPhoneShort" duration-ms="135" started-at="2021-11-15T05:42:32Z" finished-at="2021-11-15T05:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterAlertPhoneShort -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="4739" started-at="2021-11-15T05:42:32Z" finished-at="2021-11-15T05:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="6676" started-at="2021-11-15T05:42:37Z" finished-at="2021-11-15T05:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="RegisterLogo()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterLogo" duration-ms="83" started-at="2021-11-15T05:42:43Z" finished-at="2021-11-15T05:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterLogo -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="4745" started-at="2021-11-15T05:42:44Z" finished-at="2021-11-15T05:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="7039" started-at="2021-11-15T05:42:48Z" finished-at="2021-11-15T05:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="RegisterUrl()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterUrl" duration-ms="344" started-at="2021-11-15T05:42:55Z" finished-at="2021-11-15T05:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterUrl -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="4747" started-at="2021-11-15T05:42:56Z" finished-at="2021-11-15T05:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="6843" started-at="2021-11-15T05:43:00Z" finished-at="2021-11-15T05:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="RegisterVerificationPopup()[pri:0, instance:script.RegisterTest@821330f]" name="RegisterVerificationPopup" duration-ms="1023" started-at="2021-11-15T05:43:07Z" finished-at="2021-11-15T05:43:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterVerificationPopup -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="4742" started-at="2021-11-15T05:43:08Z" finished-at="2021-11-15T05:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="9613" started-at="2021-11-15T05:43:13Z" finished-at="2021-11-15T05:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="TermLink()[pri:0, instance:script.RegisterTest@821330f]" name="TermLink" duration-ms="1186" started-at="2021-11-15T05:43:23Z" finished-at="2021-11-15T05:43:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TermLink -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="726" started-at="2021-11-15T05:43:24Z" finished-at="2021-11-15T05:43:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.RegisterTest@821330f]" name="BefMet" is-config="true" duration-ms="7001" started-at="2021-11-15T05:43:25Z" finished-at="2021-11-15T05:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="VerificationEmail()[pri:0, instance:script.RegisterTest@821330f]" name="VerificationEmail" duration-ms="3607" started-at="2021-11-15T05:43:32Z" finished-at="2021-11-15T05:43:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerificationEmail -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.RegisterTest@821330f]" name="AfMet" is-config="true" duration-ms="4713" started-at="2021-11-15T05:43:35Z" finished-at="2021-11-15T05:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+      </class> <!-- script.RegisterTest -->
+    </test> <!-- RegisterPage -->
+    <test name="HomePage" duration-ms="22809" started-at="2021-11-14T22:43:40Z" finished-at="2021-11-14T22:44:03Z">
+      <class name="script.HomeTest">
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.HomeTest@29d80d2b]" name="BefMet" is-config="true" duration-ms="4762" started-at="2021-11-15T05:43:40Z" finished-at="2021-11-15T05:43:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="Banner()[pri:0, instance:script.HomeTest@29d80d2b]" name="Banner" duration-ms="6139" started-at="2021-11-15T05:43:45Z" finished-at="2021-11-15T05:43:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Banner -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.HomeTest@29d80d2b]" name="AfMet" is-config="true" duration-ms="724" started-at="2021-11-15T05:43:51Z" finished-at="2021-11-15T05:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+        <test-method status="PASS" signature="BefMet()[pri:0, instance:script.HomeTest@29d80d2b]" name="BefMet" is-config="true" duration-ms="4521" started-at="2021-11-15T05:43:52Z" finished-at="2021-11-15T05:43:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BefMet -->
+        <test-method status="PASS" signature="SpecialCard()[pri:0, instance:script.HomeTest@29d80d2b]" name="SpecialCard" duration-ms="5930" started-at="2021-11-15T05:43:56Z" finished-at="2021-11-15T05:44:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpecialCard -->
+        <test-method status="PASS" signature="AfMet()[pri:0, instance:script.HomeTest@29d80d2b]" name="AfMet" is-config="true" duration-ms="730" started-at="2021-11-15T05:44:02Z" finished-at="2021-11-15T05:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfMet -->
+      </class> <!-- script.HomeTest -->
+    </test> <!-- HomePage -->
+  </suite> <!-- Suite -->
+</testng-results>

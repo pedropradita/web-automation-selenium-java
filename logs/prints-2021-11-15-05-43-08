@@ -1,0 +1,9 @@
+05:41:49.426 [main] INFO  resources.Base - Privacy link URL is right https://www.tokopedia.com/privacy
+05:41:49.679 [main] INFO  resources.Base - The link with https://www.tokopedia.com/privacy is status ok with code 200
+05:41:57.138 [main] INFO  resources.Base - Invalid register alert is enable Format email salah
+05:42:08.770 [main] INFO  resources.Base - Null register alert is enable Nomor Ponsel atau Email harus diisi
+05:42:20.323 [main] INFO  resources.Base - Long phone number register alert is enable Nomor ponsel terlalu panjang, maksimum 15 angka
+05:42:32.502 [main] INFO  resources.Base - Short phone number register alert is enable Nomor ponsel terlalu pendek, minimum 8 angka
+05:42:44.002 [main] INFO  resources.Base - Register logo logo is enable [[ChromeDriver: chrome on WINDOWS (bb10872e19bd71a018df9c789b73bbf7)] -> css selector: .register__logo]
+05:42:55.806 [main] INFO  resources.Base - Register URL is right https://www.tokopedia.com/register
+05:42:56.132 [main] INFO  resources.Base - The link with https://www.tokopedia.com/register is status ok with code 200

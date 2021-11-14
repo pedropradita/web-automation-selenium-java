@@ -1,0 +1,10 @@
+05:43:08.646 [main] INFO  resources.Base - Header email verification alert is enable regist151121054307@a.aa
+05:43:08.690 [main] INFO  resources.Base - Body email verification alert is enable Apakah email yang Anda masukkan sudah benar?
+05:43:24.075 [main] INFO  resources.Base - Term title is right Term & Condition | Tokopedia
+05:43:24.080 [main] INFO  resources.Base - Term link URL is right https://www.tokopedia.com/terms
+05:43:24.288 [main] INFO  resources.Base - The link with https://www.tokopedia.com/terms is status ok with code 200
+05:43:35.624 [main] INFO  resources.Base - Verification text is enable Pilih Metode Verifikasi
+05:43:45.185 [main] INFO  resources.Base - Total links in Banner cards is 4
+05:43:45.403 [main] INFO  resources.Base - Successfully click new tab to link https://www.tokopedia.com/discovery/kartu-kredit
+05:43:46.462 [main] INFO  resources.Base - Successfully click new tab to link https://www.tokopedia.com/discovery/promo-elektronik-senin
+05:43:47.345 [main] INFO  resources.Base - Successfully click new tab to link https://www.tokopedia.com/discovery/tempo-group

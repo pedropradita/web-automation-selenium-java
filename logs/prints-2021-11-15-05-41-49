@@ -1,0 +1,10 @@
+05:40:41.675 [main] INFO  resources.Base - Forgot link URL is right https://www.tokopedia.com/reset-password
+05:40:53.311 [main] INFO  resources.Base - Help link URL is right https://www.tokopedia.com/help
+05:41:04.094 [main] INFO  resources.Base - Header email belum terdaftar alert is enable Email belum terdaftar
+05:41:04.094 [main] INFO  resources.Base - Body email belum terdaftar alert is enable Lanjut daftar dengan email ini
+05:41:14.983 [main] INFO  resources.Base - Invalid password alert is enable Kata sandi terlalu pendek, minimum 6 karakter
+05:41:26.273 [main] INFO  resources.Base - Null password alert is enable Kata sandi harus diisi
+05:41:39.556 [main] INFO  resources.Base - Help title is right Tokopedia Care
+05:41:39.566 [main] INFO  resources.Base - Help link URL is right https://www.tokopedia.com/help
+05:41:40.449 [main] INFO  resources.Base - The link with https://www.tokopedia.com/help is status ok with code 200
+05:41:49.420 [main] INFO  resources.Base - Privacy title is right Privacy Policy | Tokopedia

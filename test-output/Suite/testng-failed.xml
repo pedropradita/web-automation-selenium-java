@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="script.Listeners"/>
+  </listeners>
+  <test name="LoginPage(failed)">
+    <classes>
+      <class name="script.LoginTest">
+        <methods>
+          <include name="AfMet"/>
+          <include name="BefMet"/>
+          <include name="LoginAlertAkunDiamankan"/>
+        </methods>
+      </class> <!-- script.LoginTest -->
+      <class name="script.RegisterTest">
+        <methods>
+          <include name="AfMet"/>
+          <include name="BefMet"/>
+        </methods>
+      </class> <!-- script.RegisterTest -->
+      <class name="script.HomeTest">
+        <methods>
+          <include name="AfMet"/>
+          <include name="BefMet"/>
+        </methods>
+      </class> <!-- script.HomeTest -->
+    </classes>
+  </test> <!-- LoginPage(failed) -->
+  <test name="HomePage(failed)">
+    <classes>
+      <class name="script.LoginTest">
+        <methods>
+          <include name="AfMet"/>
+          <include name="BefMet"/>
+        </methods>
+      </class> <!-- script.LoginTest -->
+      <class name="script.RegisterTest">
+        <methods>
+          <include name="AfMet"/>
+          <include name="BefMet"/>
+        </methods>
+      </class> <!-- script.RegisterTest -->
+      <class name="script.HomeTest">
+        <methods>
+          <include name="KatgoriPilihanCard"/>
+          <include name="AfMet"/>
+          <include name="BefMet"/>
+        </methods>
+      </class> <!-- script.HomeTest -->
+    </classes>
+  </test> <!-- HomePage(failed) -->
+</suite> <!-- Failed suite [Suite] -->
