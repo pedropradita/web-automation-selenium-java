@@ -1,6 +1,6 @@
 # Web Automation Selenium Java
 
-## Sample International Standard frameworks from scratch for web automation using Selenium with OOP, TestNG, Maven, Jenkins, GitHub / Bitbucket, Apache Log4J2, Extent Reports.
+## Sample International Standard frameworks from scratch for web automation using Selenium with OOP, TestNG, Maven, Jenkins, GitHub / Bitbucket, Apache Log4J2 & Extent Reports.
 
 ## Setup for Windows
 
